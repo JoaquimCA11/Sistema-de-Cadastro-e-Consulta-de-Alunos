@@ -38,7 +38,7 @@ $alunos = $stmt->fetchAll(); // Obtém todos os resultados
         <input type="number" name="idade" required><br>
 
         <label for="email">E-mail:</label>
-        <input type="email" name="email"><br>
+        <input type="email" name="email" required><br>
 
         <label for="curso">Curso:</label>
         <input type="text" name="curso" required><br>
