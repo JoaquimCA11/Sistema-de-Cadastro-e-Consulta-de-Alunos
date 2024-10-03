@@ -1,8 +1,5 @@
 # Sistema de Cadastro e Consulta de Alunos
 
-## Descrição
-O Sistema de Cadastro e Consulta de Alunos é uma aplicação web simples que permite a inserção, visualização e exclusão de registros de alunos. O objetivo é facilitar o gerenciamento de informações acadêmicas de forma acessível e amigável.
-
 ## Fim de cada etapa
 - **Etapa 1**: 01/10/2024 às 08:29
 - **Etapa 2**:  01/10/2024 às 08:37
