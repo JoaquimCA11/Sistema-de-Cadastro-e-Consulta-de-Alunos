@@ -61,7 +61,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <input type="number" name="idade" value="<?= htmlspecialchars($aluno['idade']) ?>" required><br>
 
         <label for="email">E-mail:</label>
-        <input type="email" name="email" value="<?= htmlspecialchars($aluno['email']) ?>"><br>
+        <input type="email" name="email" value="<?= htmlspecialchars($aluno['email']) ?>" required><br>
 
         <label for="curso">Curso:</label>
         <input type="text" name="curso" value="<?= htmlspecialchars($aluno['curso']) ?>" required><br>
